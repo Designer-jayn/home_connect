@@ -4,10 +4,138 @@ html, body {
 }
 
 
+#wrap{
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+}
+
+
+
+.bg{    
+    position: absolute;
+    left: 0;
+    width: 100vw;
+
+}
+
+.bg01{
+    top: 0;
+    height: 1409px;
+    background: #161616;
+}
+.bg02{
+    top: 3006px;
+    height: 848px;
+    background: linear-gradient(75deg, #4d5055 10%, #454648 40%, 
+                #25242a 80.5%, #302f35 82.8%, #39383e 84%, #3f3e44 85%, #48474d 86.5%);
+}
+
+
+.bg03{
+    top: 5373px;
+    height: 1220px;
+    background: #101012;
+}
+
+.bg04{
+    top: 6593px;
+    height: 1470px;
+    background: #f1f1f1;
+}
+
+
+.bg05{
+    top: 8063px;
+    height: 1861px;
+    background: #141414;
+}
+.bg06{
+    top: 9924px;
+    height: 1396px;
+    background: #f1f1f1;
+}
+
+.bg07{
+    top: 11320px;
+    height: 1716px;
+    background: #0b0b0b;
+}
+
+
+.bg08{
+    top: 13036px;
+    height: 1137px;
+    background: #bcbcbc;
+}
+
+.bg09{
+    top: 14173px;
+    height: 1155px;
+    background: #191919;
+}
+
+.bg10{
+    top: 16489px;
+    height: 1208px;
+    background: #0b0b0b;
+}
+
+.bg11{
+    top: 17697px;
+    width: 50vw;
+    height: 1696px;
+    background: #0b0b0b;
+    left: initial;
+    right: 0;
+}
+
+
+.bg12{
+    top: 19413px;
+    width: 50vw;
+    height: 2407px;
+    background: #101010;
+}
+
+.bg13{
+    top: 21286px;
+    width: 50vw;
+    height: 534px;
+    background: #101010;
+    left: initial;
+    right: 0;
+}
+
+
+
+/* .bg02_box01{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50vw;
+    height: 848px;
+    background: linear-gradient(75deg, #4d5055 24%, #454648 46%);
+}
+
+.bg02_box02{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-40%);
+    width: 50vw;
+    height: 848px;
+    background: linear-gradient(75deg, #25242a 80.5%, #302f35 82.8%, #39383e 84%, #3f3e44 85%, #48474d 86.5%);
+} */
+
+
 
 .ui_mobile_web {
-    width: 100%; height: 100%;
-    position: relative; left: 0; top: 0;
+    width: 100%; 
+    height: 100%;
+    position: relative; 
+    left: 0; top: 0;
 }
 
 
