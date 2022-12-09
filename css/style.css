@@ -1,0 +1,241 @@
+html, body {
+    height: 100%;
+    position: relative;
+}
+
+
+
+.ui_mobile_web {
+    width: 100%; height: 100%;
+    position: relative; left: 0; top: 0;
+}
+
+
+.test{
+    position: absolute;
+    Border: solid 0;
+    border-radius: 25px;
+    Overflow:hidden;
+    width: 384px;
+    height: 820px;
+}
+
+.phone{
+    position: absolute;
+    z-index: 100;
+    mix-blend-mode: screen;
+}
+
+
+.test01 {
+    left: 1221px;
+    top: 1958px;
+}
+/*
+left 42
+top 57
+*/
+
+.phone01{
+    left: 1178px;
+    top: 1901px;
+}
+/*---------------------cat--------------*/
+
+
+.cat {
+    left: 753px;
+    top: 5584px;
+}
+
+
+.phone02{
+    left: 711px;
+    top: 5527px;
+}
+
+
+
+
+
+
+
+
+/*---------------------login--------------*/
+
+
+.login01{
+     left: 440px;
+     top: 12011px;
+ }
+
+
+.phone03{
+    left: 398px;
+    top: 11954px;
+}
+
+
+.login02{
+    left: 900px;
+    top: 12011px;
+}
+
+
+.phone04{
+    left: 858px;
+    top: 11954px;
+}
+
+
+.login03{
+    left: 1360px;
+    top: 12011px;
+}
+
+
+.phone05{
+    left: 1318px;
+    top: 11954px;
+}
+
+
+
+
+/*---------------------dark--------------*/
+
+
+.dark{
+     left: 1200px;
+     top: 13194px;
+ }
+
+
+.phone06{
+    left: 1157px;
+    top: 13137px;
+}
+
+/*---------------------cook--------------*/
+
+
+.cook{
+    left: 644px;
+    top: 14341px;
+}
+
+
+.phone07{
+    left: 602px;
+    top: 14284px;
+}
+
+
+/*---------------------cook--------------*/
+
+
+.add_device{
+    left: 809px;
+    top: 15551px;
+}
+
+
+.phone08 {
+    left: 767px;
+    top: 15494px;
+}
+
+
+
+/*---------------------fan--------------*/
+
+
+.fan{
+    left: 523px;
+    top: 16748px;
+}
+
+
+.phone09 {
+    left: 482px;
+    top: 16691px;
+}
+
+
+/*---------------------temp--------------*/
+
+
+.temp{
+    left: 860px;
+    top: 18021px;
+}
+
+
+.phone10 {
+    left: 818px;
+    top: 17964px;
+}
+
+
+
+/*---------------------light--------------*/
+
+
+.light{
+    left: 1370px;
+    top: 18162px;
+}
+
+
+.phone11 {
+    left: 1328px;
+    top: 18105px;
+}
+
+
+/*---------------------home cam--------------*/
+
+
+.home_cam01{
+    left: 313px;
+    top: 19251px;
+}
+
+
+.phone12 {
+    left: 269px;
+    top: 19193px;
+}
+
+
+
+.home_cam02{
+    left: 313px;
+    top: 20222px;
+}
+
+
+.phone13 {
+    left: 269px;
+    top: 20163px;
+}
+
+
+.home_cam03{
+    left: 852px;
+    top: 20222px;
+}
+
+
+.phone14 {
+    left: 809px;
+    top: 20163px;
+}
+
+
+
+
+/*
+left 42
+top 57
+*/
